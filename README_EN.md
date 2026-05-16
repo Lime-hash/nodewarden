@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">中文说明</a> |
+  <a href="./README.md"> 中文说明 </a> |
   <a href="./CONTRIBUTING.md">Contributing</a>
 </p>
 
